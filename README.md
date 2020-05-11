@@ -1,5 +1,3 @@
-Hola Mundo
-
 # Prueba Inicial
 
 # Objetivo General
@@ -10,6 +8,4 @@ Content
 
 Más contenido
 
-agregar líneas
-
-Este es el final del doumento
+Agregar líneas
